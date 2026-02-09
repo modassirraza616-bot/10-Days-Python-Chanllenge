@@ -1,0 +1,15 @@
+# MULTIPLE CONDITION USING "and" AND "or"
+'''LOGICAL OPERATORS HELPS US IN CONTAINING THE RESULT OF 2 CONDITIONS'''
+
+# and 
+'''IF BOTH THE CONDITION ARE TRUE THEN THE OPERATION IS TRUE '''
+# OR
+'''IF ONR OF THE CONDITION ARE TRUE THEN THE OPERATION IS TRUE'''
+
+#EXAMPLE
+#TAKE POSITIVE INTEGER INPUT AND TELL IF IT IS A FOUR DIGIT NUMBER OR NOT.
+n= int(input("enter positive integer:"))
+if n<=9999 and n>=1000:
+    print("four digit number")
+else:
+    print("not four digit number")

@@ -1,0 +1,26 @@
+#OPERATORS
+'''ARITHMETIC OPERATORS
+ASSIGNMENT OPERATORS
+COMPARISION OPERATORS
+LOGICAL OPERATORS
+IDENTITY OPERATORS
+MEMBERSHIP OPERATORS
+BITWISE OPERATORS'''
+
+#ARITHMETIC OPERATORS
+'''+ ADDITION
+- SUBTRACTION
+* MULTIPLICATION
+/ DIVISION
+% MODULUS (remender)
+** EXPONENTIAL
+// FLOOR DIVISION (nearest value)'''
+
+#EXAMPLE
+print("sum:",2+3)
+print("subtraction:",3-2)
+print("multiplication:",4*8)
+print("division:",9/2)
+print("modulus:",9%2)
+print("exponential:",4**2)
+print("floor:",8//2)
