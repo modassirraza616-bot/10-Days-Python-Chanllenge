@@ -7,7 +7,7 @@ else if ladder
 ternary
 switch'''
 # if-else
-'''if statement condition statisfy then print, "if staement" otherwise print "else staement"'''
+'''if statement conditional statisfy then print if staement otherwise print else staement'''
 # example
 raining= input("enter choice: ")
 if raining == "raining":

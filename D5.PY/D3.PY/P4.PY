@@ -10,4 +10,4 @@ else :
 
 
 # we can use if  and  else  statement only one time in a program but for multiple statements we use elif 
-# if and elif contain conditions but else doesn't. 
+# if and elif contain statement but else doesn't. 
