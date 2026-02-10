@@ -17,4 +17,3 @@ for n in nums:
         break
     else:
         continue
-    
